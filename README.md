@@ -1,2 +1,2 @@
 # knowledge
-My notes about development
+https://github.com/xmalmed/knowledge/wiki
